@@ -1,2 +1,2 @@
 # gittest
-this is a git test file file
+this is a git test file
